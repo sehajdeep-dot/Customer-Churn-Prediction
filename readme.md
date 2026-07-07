@@ -1,6 +1,8 @@
-# 📊 Customer Churn Prediction System
+# 🧠 Retention IQ
 
-An end-to-end Machine Learning project that predicts whether a telecom customer is likely to churn using a trained Random Forest model and an interactive Streamlit dashboard.
+### AI-Powered Customer Churn Prediction Dashboard
+
+An end-to-end Machine Learning project built using **Python, Scikit-learn, Streamlit, and Plotly** to predict telecom customer churn through an interactive analytics dashboard powered by a **Random Forest Pipeline**.
 
 ---
 
